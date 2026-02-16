@@ -10,7 +10,7 @@ Database Development with PL/SQL (INSY 8311)
 
 This assignment demonstrates practical understanding of Oracle Multitenant Architecture and Pluggable Database (PDB) management. The work involved creating and managing Pluggable Databases, creating users inside a PDB, deleting a temporary PDB, accessing Oracle Enterprise Manager (OEM), and documenting all activities professionally on GitHub.
 
-The Oracle environment used for this assignment was Oracle Database 19c, SQL*Plus, and Oracle Enterprise Manager (OEM) running on Windows 10.
+The Oracle environment used for this assignment was Oracle Database 21c, SQL*Plus, and Oracle Enterprise Manager (OEM) running on Windows 11.
 
 ---
 
@@ -71,12 +71,18 @@ The dashboard confirms successful execution of the required administrative tasks
 All evidence screenshots are stored inside the `screenshots/` folder. These include:
 
 - PDB creation
+  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%201.1.png
 - PDB open state
+- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%201%20.png
 - User creation
+- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%202.1.png
 - Temporary PDB creation
+- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_deletion/db%203.1.png
 - Temporary PDB deletion
+- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_deletion/db%203.1.png
 - OEM dashboard verification
-
+-https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/oem_dashboard/db%20dashboard%20.png
+-https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/oem_dashboard/db%20dashboard%202.png
 Each screenshot clearly displays commands and results as required.
 
 ---
