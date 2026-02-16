@@ -1,6 +1,6 @@
 # Oracle Pluggable Database Management – Assignment II
 
-Kamanzi Thierry  
+Kamanzi Ishimwe Thierry  
 Student ID: 27215  
 Database Development with PL/SQL (INSY 8311)  
 
