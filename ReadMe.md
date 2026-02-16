@@ -73,18 +73,18 @@ All evidence screenshots are stored inside the `screenshots/` folder. These incl
 - PDB creation
   https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%201.1.png
 - PDB open state
-- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%201%20.png
+ https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%201%20.png
 - User creation
-- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%202.1.png
+ https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%202.1.png
 - Temporary PDB creation
-- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_deletion/db%203.1.png
+ https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_deletion/db%203.1.png
 - Temporary PDB deletion
-- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_deletion/db%203.1.png
+ https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_deletion/db%203.1.png
 - OEM dashboard verification
-- https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/c7408e86e4db78da2469ef32534f8d0d8f49d5ec/Screenshots/oem_dashboard/db%20dashboard%201.png
--https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/oem_dashboard/db%20dashboard%20.png
--https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/oem_dashboard/db%20dashboard%202.png
-Each screenshot clearly displays commands and results as required.
+ https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/c7408e86e4db78da2469ef32534f8d0d8f49d5ec/Screenshots/oem_dashboard/db%20dashboard%201.png
+ https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/oem_dashboard/db%20dashboard%20.png
+ https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/oem_dashboard/db%20dashboard%202.png
+-Each screenshot clearly displays commands and results as required.
 
 ---
 
