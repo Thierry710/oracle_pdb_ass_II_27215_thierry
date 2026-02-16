@@ -85,7 +85,7 @@ All evidence screenshots are stored inside the `screenshots/` folder. These incl
  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/oem_dashboard/db%20dashboard%20.png
  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/oem_dashboard/db%20dashboard%202.png
 
--Each screenshot clearly displays commands and results as required.
+ Each screenshot clearly displays commands and results as required.
 
 ---
 
