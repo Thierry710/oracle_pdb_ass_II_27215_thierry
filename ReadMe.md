@@ -71,12 +71,15 @@ The dashboard confirms successful execution of the required administrative tasks
 All evidence screenshots are stored inside the `screenshots/` folder. These include:
 
 - PDB creation
+  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/c1736031f0df3a079e3ce1e0da87c811c3dd450a/Screenshots/pdb_creation/db%201.2.png
+  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/c1736031f0df3a079e3ce1e0da87c811c3dd450a/Screenshots/pdb_creation/db%201.3.png
   https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%201.1.png
 - PDB open state
  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%201%20.png
 - User creation
  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_creation/db%202.1.png
 - Temporary PDB creation
+  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/c1736031f0df3a079e3ce1e0da87c811c3dd450a/Screenshots/pdb_deletion/db%203.2.png
  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_deletion/db%203.1.png
 - Temporary PDB deletion
  https://github.com/Thierry710/oracle_pdb_ass_II_27215_thierry/blob/1aee4f25238692468df4497e41b1db3dab0c0c5c/Screenshots/pdb_deletion/db%203.1.png
